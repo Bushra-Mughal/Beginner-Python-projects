@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
     <h1>
-        <u>Beginner python projects</u>
+        <u>Beginner python projects and tasks</u>
     </h1>
     <p>
-        This directory contains projects I created during my 'Python Basic' course.  <br>
+        This directory contains projects and tasks I accomplished during my 'Beginner Python' course.  <br>
         Course instructor name: Sir Shoban Ali
     </p>
     <h3>
@@ -13,11 +13,10 @@
     <p>
         Dictionay  <br>
         Set  <br>
-        if-else (conditional statements) <br>
-        loops   (while , do-while , for) <br>
+        if-else (conditional statements)  <br>
+        loops   (while , do-while , for)  <br>
         built-in functions  <br>
-        problem solving
-
-
+        problem solving  <br>
+        real-world scenerios
     </p>
 </html>
